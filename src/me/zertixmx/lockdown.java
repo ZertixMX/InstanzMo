@@ -1,4 +1,4 @@
-package me.zack6849.lockdown;
+package me.zertixmx.lockdown;
 
 
 import java.io.File;
