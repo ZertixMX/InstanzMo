@@ -1,0 +1,15 @@
+defaults:
+    kick-message: We Are Currently In LockDown, Please Come Back Later
+    delay: true
+    time: 5
+    warning-message: LockDown enabled, kicking players in 5 seconds!
+    warning-prefix: WARNING
+    motd: true
+    persist: true
+    motd-message: LockDown enabled!
+    auto-update: true
+broadcasts:
+    enable: true
+    disable: true
+    warning: true
+ld: false
