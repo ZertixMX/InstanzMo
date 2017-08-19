@@ -1,12 +1,12 @@
 defaults:
-    kick-message: We Are Currently In LockDown, Please Come Back Later
+    kick-message: Du wurdest gekickt, probiere es wieder in 5 Sekunden.
     delay: true
     time: 5
-    warning-message: LockDown enabled, kicking players in 5 seconds!
-    warning-prefix: WARNING
+    warning-message: Lockdown wurde aktiviert!
+    warning-prefix: WARNUNGG
     motd: true
     persist: true
-    motd-message: LockDown enabled!
+    motd-message: LockDown aktiviert!
     auto-update: true
 broadcasts:
     enable: true
